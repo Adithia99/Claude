@@ -1,0 +1,46 @@
+{
+  "id": "ep001",
+  "title": "Pose Keren Pakai Kipas",
+  "setting": "Rooftop of a small city building at golden-hour sunset, warm orange sky, water tower and clotheslines in the background.",
+  "caption": "Kerennya ternyata ada yang modalin 😭 #chibi",
+  "hashtags": ["#chibi", "#animasi", "#lucu", "#fyp", "#komedi"],
+  "scenes": [
+    {
+      "id": "s1",
+      "chars": ["raka"],
+      "image_prompt": "Raka stands heroically at the rooftop edge, low camera angle, his long red scarf flowing dramatically in strong wind, smug confident smile, sunset behind him.",
+      "motion_prompt": "Slow push-in. The red scarf and hair whip dramatically in the wind, Raka slowly lifts his sunglasses with one finger and smirks. Epic orchestral swell.",
+      "audio": "wind gusts, epic orchestral music swell, no speech",
+      "seconds": 6,
+      "subs": [
+        {"at": 0.4, "dur": 2.6, "text": "Pahlawan sejati..."},
+        {"at": 3.2, "dur": 2.6, "text": "...gak butuh angin dari alam 😎"}
+      ]
+    },
+    {
+      "id": "s2",
+      "chars": ["raka", "me"],
+      "interrupt": true,
+      "image_prompt": "Wide shot reveals the wind source: Gue crouches just off to the side holding a big desk fan connected to a long orange extension cable, looking bored and sweaty, while Raka still poses heroically.",
+      "motion_prompt": "Camera quickly pans to reveal Gue holding the desk fan aimed at Raka. Gue yawns, then looks straight at the camera with a deadpan face.",
+      "audio": "electric fan humming, record scratch at the start",
+      "seconds": 6,
+      "subs": [
+        {"at": 0.3, "dur": 2.2, "text": "LAH ITU KIPAS GUE", "speaker": "me"},
+        {"at": 2.8, "dur": 3.0, "text": "Udah setengah jam nih bro...", "speaker": "me"}
+      ]
+    },
+    {
+      "id": "s3",
+      "chars": ["raka", "me"],
+      "image_prompt": "Gue has unplugged the fan and walks away holding the plug; Raka's scarf hangs limp, his hair flat, sunglasses crooked, frozen in an awkward pose.",
+      "motion_prompt": "The fan winds down, Raka's scarf falls limp and his spiky hair droops. Raka keeps the pose, eyes darting nervously. A single cricket chirps.",
+      "audio": "fan powering down, single cricket chirp, awkward silence",
+      "seconds": 6,
+      "subs": [
+        {"at": 0.5, "dur": 2.4, "text": "Bayar listrik dulu, hero 🔌", "speaker": "me"},
+        {"at": 3.3, "dur": 2.5, "text": "..."}
+      ]
+    }
+  ]
+}

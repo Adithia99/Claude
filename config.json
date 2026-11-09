@@ -1,0 +1,17 @@
+{
+  "image_model": "gemini-2.5-flash-image",
+  "video_model": "veo-3.1-generate-preview",
+  "veo_parameters": {
+    "aspectRatio": "9:16",
+    "durationSeconds": 8,
+    "personGeneration": "allow_adult"
+  },
+  "style": "cute chibi 2D cartoon, big head small body, thick clean outlines, soft cel shading, expressive anime eyes, cinematic lighting, vertical 9:16 frame, full body visible, no text, no watermark",
+  "short": { "width": 720, "height": 1280, "fps": 24 },
+  "long": { "width": 1920, "height": 1080, "fps": 24 },
+  "subtitle_font": "Inter",
+  "colors": {
+    "default": "&H00FFFFFF",
+    "me": "&H0000E5FF"
+  }
+}

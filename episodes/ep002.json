@@ -1,0 +1,46 @@
+{
+  "id": "ep002",
+  "title": "Gorengan Terakhir",
+  "setting": "Cozy Indonesian street food stall (warung) at night, string lights, a plate of fried snacks (gorengan) on a wooden table, glasses of iced tea.",
+  "caption": "Gorengan terakhir itu sakral 😤 #chibi",
+  "hashtags": ["#chibi", "#animasi", "#gorengan", "#fyp", "#komedi"],
+  "scenes": [
+    {
+      "id": "s1",
+      "chars": ["raka"],
+      "image_prompt": "Close shot of Raka staring intensely at the LAST piece of gorengan (a fried tofu) on the plate, eyes sparkling, hands rubbing together, dramatic spotlight on the snack.",
+      "motion_prompt": "Dramatic slow zoom onto the fried tofu. Raka slowly reaches out his hand like a samurai about to draw a sword. Tense drum roll.",
+      "audio": "tense drum roll, sizzling oil",
+      "seconds": 6,
+      "subs": [
+        {"at": 0.4, "dur": 2.5, "text": "Gorengan terakhir..."},
+        {"at": 3.0, "dur": 2.8, "text": "Ini takdir gue 🔥"}
+      ]
+    },
+    {
+      "id": "s2",
+      "chars": ["raka", "me"],
+      "interrupt": true,
+      "image_prompt": "Gue suddenly zooms in from the side frame on a tiny skateboard, mouth wide open, snatching the fried tofu right before Raka's fingers touch it; motion lines, Raka's eyes wide in shock.",
+      "motion_prompt": "Gue zips through the frame from left to right on a skateboard and snatches the tofu in one bite. Raka's hand grabs empty air. Freeze on Raka's shocked face.",
+      "audio": "whoosh, skateboard rolling, loud crunch bite",
+      "seconds": 6,
+      "subs": [
+        {"at": 0.3, "dur": 1.8, "text": "PERMISII 🛹", "speaker": "me"},
+        {"at": 2.4, "dur": 3.0, "text": "Takdir lu kalah cepet 😋", "speaker": "me"}
+      ]
+    },
+    {
+      "id": "s3",
+      "chars": ["raka"],
+      "image_prompt": "Raka kneels on the ground in anime-style despair, rain cloud over his head, holding the empty plate, single tear, the warung owner in the background offering a bill.",
+      "motion_prompt": "A tiny rain cloud pours only on Raka. He slowly raises the empty plate to the sky and cries dramatically. Sad violin.",
+      "audio": "sad violin, light rain",
+      "seconds": 6,
+      "subs": [
+        {"at": 0.5, "dur": 2.5, "text": "KENAPA DUNIA SEKEJAM INI 😭"},
+        {"at": 3.2, "dur": 2.6, "text": "(dia juga yang bayar)", "speaker": "me"}
+      ]
+    }
+  ]
+}
